@@ -1,0 +1,3 @@
+﻿  m9_uf2_pac4.cpp
+E:\dico cosa\m9_uf2_pac4\m9_uf2_pac4\m9_uf2_pac4.cpp(40,60): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  m9_uf2_pac4.vcxproj -> E:\dico cosa\m9_uf2_pac4\x64\Debug\m9_uf2_pac4.exe
